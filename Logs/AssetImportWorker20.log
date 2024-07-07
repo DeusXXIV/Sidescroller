@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19045.3930; Version 2009; 64bit' Language: 'en' Physical Memory: 16324 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Game Development\Unity\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker20
+-projectPath
+D:/Game Development/Game Projects/Sidescroller
+-logFile
+Logs/AssetImportWorker20.log
+-srvPort
+55876
+Successfully changed project path to: D:/Game Development/Game Projects/Sidescroller
+D:/Game Development/Game Projects/Sidescroller
+Using Asset Import Pipeline V2.
